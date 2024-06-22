@@ -1,0 +1,6 @@
+[ARTICMI/ART0001] = The file that the autoload tries to upload is not found.
+[ARTICMI/ART0002] = The route is not found by the router.
+[ARTICMI/ART0003] = Indicates that the view is not being found by the controller.
+[ARTICMI/ART0004] = The Templates are not being found.
+[ARTICMI/ART0005] = Modals are not being found.
+[ARTICMI/ART0006] = Error with database connection.

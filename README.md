@@ -57,11 +57,57 @@ C:\xampp\apache\conf\extra\httpd-vhosts.conf
 </VirtualHost>
 ```
 
+<h2>Database</h2>
+<p>For the database, we will create a MySQL database with the name we want, and in the Conexion.php file we will add the database data.</p>
+
+```bash
+    $servername = "localhost";
+    $username = "root";
+    $password = "";
+    $database = "name_db";
+```
+
 <h2>Use</h2>
 <p>To use the project, we will have to access the following path and point to the public folder, so whether in hosting/vps/local we must always point to the start of the Public folder:</p>
 
 ```bash
 domainname.local
 ```
+
+<h2>Project structure</h2>
+
+<pre>
+    <code>
+        📁 ARTFRAMEWORK
+        📄 Autor.json
+        📄 LICENSE
+        📄 README.md
+        📄 TypeError.log
+        📁 App
+        │   ├── 📁 Controllers
+        │   │   ├── 📄 Controller.php
+        │   │   └── 📄 Home.php
+        │   ├── 📁 Models
+        │   ├── 📁 Template
+        │   ├── 📁 Views
+        │   │   └── 📁 Errors
+        │   │   │   └── 📄 404.php
+        │   │   └── 📄 home.php
+        📁 Lib
+        │   ├── 📄 Articmi.php
+        │   ├── 📄 Autoload.php
+        │   ├── 📄 Conexion.php
+        │   ├── 📄 Helper.php
+        │   └── 📄 Logger.php
+        📁 Logs
+        │   └── 📄 Errors.log
+        📁 Public
+        │   ├── 📄 .htaccess
+        │   └── 📄 index.php
+        📁 Routes
+            └── 📄 Router.php
+    </code>
+</pre>
+
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
