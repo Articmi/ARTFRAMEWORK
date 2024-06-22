@@ -10,8 +10,8 @@ ARTFRAMEWORK is a lightweight and versatile open source framework designed for P
    <li>Support: Active community and detailed documentation to facilitate implementation and use.</li>
 </ul>
 
-# Note: 
-Any use of ARTFRAMEWORK requires credit to the original creator as acknowledgment of his contribution to the project.
+> [!NOTE]
+> Any use of ARTFRAMEWORK requires credit to the original creator as acknowledgment of his contribution to the project.
 
 # WebSite:
 Visit [Articmi](https://articmi.com/) to learn more and start using ARTFRAMEWORK in your next PHP project.
@@ -30,8 +30,8 @@ Requirements
 git clone git@github.com:Articmi/Art_framework.git
 ```
 
-<h2>Settings</h2>
-<p>We will create a subdomain by making changes to the following path:</p>
+> [!IMPORTANT]
+> <p>We will create a subdomain by making changes to the following path:</p>
 
 ```bash
 C:\Windows\System32\drivers\etc\hosts
