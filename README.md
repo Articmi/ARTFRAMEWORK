@@ -27,7 +27,7 @@ Requirements
 <p>To install the project, clone the repository in the apache/htdocs folder.</p>
 
 ```bash
-git clone git@github.com:Articmi/Art_framework.git
+git clone git@github.com:Articmi/ARTFRAMEWORK.git
 ```
 
 > [!IMPORTANT]
