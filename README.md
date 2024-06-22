@@ -17,7 +17,7 @@ Any use of ARTFRAMEWORK requires credit to the original creator as acknowledgmen
 Visit [Articmi](https://articmi.com/) to learn more and start using ARTFRAMEWORK in your next PHP project.
 
 # Installation and uses
-## Requirements
+Requirements
 <ul>
     <li>PHP 8</li>
     <li>Apache</li>
@@ -25,6 +25,7 @@ Visit [Articmi](https://articmi.com/) to learn more and start using ARTFRAMEWORK
 </ul>
 
 <p>To install the project, clone the repository in the apache/htdocs folder.</p>
+
 ```bash
 git clone git@github.com:Articmi/Art_framework.git
 ```
@@ -62,3 +63,5 @@ C:\xampp\apache\conf\extra\httpd-vhosts.conf
 ```bash
 domainname.local
 ```
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
