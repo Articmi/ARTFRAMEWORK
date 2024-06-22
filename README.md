@@ -61,10 +61,10 @@ C:\xampp\apache\conf\extra\httpd-vhosts.conf
 <p>For the database, we will create a MySQL database with the name we want, and in the Conexion.php file we will add the database data.</p>
 
 ```bash
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $database = "name_db";
+$servername = "localhost";
+$username = "root";
+$password = "";
+$database = "name_db";
 ```
 
 <h2>Use</h2>
