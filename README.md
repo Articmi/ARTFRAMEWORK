@@ -77,36 +77,36 @@ domainname.local
 <h2>Project structure</h2>
 
 <pre>
-    <code>
-        📁 ARTFRAMEWORK
-        📄 Autor.json
-        📄 LICENSE
-        📄 README.md
-        📄 TypeError.log
-        📁 App
-        │   ├── 📁 Controllers
-        │   │   ├── 📄 Controller.php
-        │   │   └── 📄 Home.php
-        │   ├── 📁 Models
-        │   ├── 📁 Template
-        │   ├── 📁 Views
-        │   │   └── 📁 Errors
-        │   │   │   └── 📄 404.php
-        │   │   └── 📄 home.php
-        📁 Lib
-        │   ├── 📄 Articmi.php
-        │   ├── 📄 Autoload.php
-        │   ├── 📄 Conexion.php
-        │   ├── 📄 Helper.php
-        │   └── 📄 Logger.php
-        📁 Logs
-        │   └── 📄 Errors.log
-        📁 Public
-        │   ├── 📄 .htaccess
-        │   └── 📄 index.php
-        📁 Routes
-            └── 📄 Router.php
-    </code>
+<code>
+📁 ARTFRAMEWORK
+📄 Autor.json
+📄 LICENSE
+📄 README.md
+📄 TypeError.log
+📁 App
+│   ├── 📁 Controllers
+│   │   ├── 📄 Controller.php
+│   │   └── 📄 Home.php
+│   ├── 📁 Models
+│   ├── 📁 Template
+│   ├── 📁 Views
+│   │   └── 📁 Errors
+│   │   │   └── 📄 404.php
+│   │   └── 📄 home.php
+📁 Lib
+│   ├── 📄 Articmi.php
+│   ├── 📄 Autoload.php
+│   ├── 📄 Conexion.php
+│   ├── 📄 Helper.php
+│   └── 📄 Logger.php
+📁 Logs
+│   └── 📄 Errors.log
+📁 Public
+│   ├── 📄 .htaccess
+│   └── 📄 index.php
+📁 Routes
+    └── 📄 Router.php
+</code>
 </pre>
 
 # License
